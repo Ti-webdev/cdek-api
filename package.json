@@ -1,7 +1,7 @@
 {
   "name": "cdek-api",
   "version": "0.0.1",
-  "description": "",
+  "description": "CDEK API For JavaScript",
   "keywords": [],
   "main": "dist/cdek-api.umd.js",
   "module": "dist/cdek-api.es5.js",
