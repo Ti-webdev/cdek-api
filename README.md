@@ -20,7 +20,7 @@ npm install cdek-api
 ```javascript
 import Cdek from 'cdek-api'
 
-{ CDEK_ACCOUNT, CDEK_SECURE_PASSWORD } = process.env
+const { CDEK_ACCOUNT, CDEK_SECURE_PASSWORD } = process.env
 
 const cdek = new CdekApi(CDEK_ACCOUNT, CDEK_SECURE_PASSWORD)
 
